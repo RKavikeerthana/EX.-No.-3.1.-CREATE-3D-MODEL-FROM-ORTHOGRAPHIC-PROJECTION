@@ -41,6 +41,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![KAVI EXP 3 1_page-0001](https://user-images.githubusercontent.com/120431120/210710310-fbe3c5eb-c06b-4449-853f-df8299de941e.jpg)
+
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
